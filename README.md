@@ -12,4 +12,4 @@ The framework presented uses advanced NLP techniques to ensure the synthetic not
 - Generation of synthetic clinical notes mimicking real-world clinical documentation.
 - Ability to capture crucial medical information such as diagnosis, treatments, and outcomes.
 - Structure preservation to maintain the format and readability of clinical notes.
-- ![alt text]([http://url/to/img.png](https://github.com/rkoramtin/Large-Language-Model-for-Synthetic-Clinical-Notes/blob/main/resources/pipeline.jpg)https://github.com/rkoramtin/Large-Language-Model-for-Synthetic-Clinical-Notes/blob/main/resources/pipeline.jpg)
+![image](https://github.com/rkoramtin/Large-Language-Model-for-Synthetic-Clinical-Notes/assets/37023439/e3d8c2b6-ff85-4cbe-bcc9-09a95255c200)
